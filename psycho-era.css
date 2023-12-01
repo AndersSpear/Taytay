@@ -1,0 +1,174 @@
+.psycho-era-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.psycho-era-psycho-era {
+  width: 100%;
+  height: 1918px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-bg2);
+}
+.psycho-era-text {
+  top: 650px;
+  left: 190px;
+  color: rgba(0, 0, 0, 1);
+  width: 902px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.psycho-era-rectangle1 {
+  top: 267px;
+  left: 189px;
+  width: 902px;
+  height: 268px;
+  position: absolute;
+  border-color: rgba(133, 50, 69, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.psycho-era-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 193px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.psycho-era-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 193px;
+  position: absolute;
+}
+.psycho-era-text11 {
+  top: 53px;
+  left: 406px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 72px;
+  box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 1) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.psycho-era-vector {
+  top: 83.91650390625px;
+  left: 52.25px;
+  width: 43px;
+  height: 24px;
+  position: absolute;
+}
+.psycho-era-vector1 {
+  top: 74px;
+  left: 1194px;
+  width: 40px;
+  height: 45px;
+  position: absolute;
+}
+.psycho-era-rectangle23 {
+  top: 1558px;
+  left: 188px;
+  width: 260px;
+  height: 260px;
+  position: absolute;
+  border-color: rgba(133, 50, 69, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.psycho-era-rectangle24 {
+  top: 1558px;
+  left: 509px;
+  width: 260px;
+  height: 260px;
+  position: absolute;
+  border-color: rgba(133, 50, 69, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.psycho-era-rectangle25 {
+  top: 1558px;
+  left: 830px;
+  width: 260px;
+  height: 260px;
+  position: absolute;
+  border-color: rgba(133, 50, 69, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.psycho-era-frame-themadness {
+  top: 584px;
+  left: 189px;
+  width: 262px;
+  height: 51px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.psycho-era-text13 {
+  color: var(--dl-color-default-bg);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  box-shadow: 2px 2px 0px 0px rgba(221, 159, 159, 1) ;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 160.0000023841858%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.psycho-era-group81 {
+  top: 1473px;
+  left: 223px;
+  width: 835px;
+  height: 25.455842971801758px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.psycho-era-line7 {
+  top: 13px;
+  left: 0px;
+  width: 403px;
+  height: 1px;
+  position: absolute;
+}
+.psycho-era-line8 {
+  top: 13px;
+  left: 440px;
+  width: 395px;
+  height: 1px;
+  position: absolute;
+}
+.psycho-era-rectangle26 {
+  top: 0px;
+  left: 421.72802734375px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
